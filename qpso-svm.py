@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec  3 10:37:57 2018
-
-@author: lj
-"""
 import re
 import numpy as np
 from sklearn import svm

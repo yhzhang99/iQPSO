@@ -1,3 +1,4 @@
+import copy
 import re
 import numpy as np
 from sklearn import svm
@@ -63,7 +64,7 @@ class QPSO(object):
         ### 1.适应度函数为RBF_SVM的3_fold交叉校验平均值
         for i in range(self.particle_num):
             rbf_svm = svm.SVC(kernel='rbf', C=particle_loc[i][0], gamma=particle_loc[i][1])
-            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=7, scoring='accuracy')
+            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
             fitness_value.append(cv_scores.mean())
         ### 2. 当前粒子群最优适应度函数值和对应的参数
         current_fitness = 0.0
@@ -159,35 +160,67 @@ class QPSO(object):
                 temp = temp + particle_loc[j][i]
             n.append(temp / self.particle_num)
 
-        left.append(g[0])
-        left.append(n[0])
-        left.append(p[0])
-        right.append(g[1])
-        right.append(n[1])
-        right.append(p[1])
+        for i in range(self.particle_dim):
+            p1 = copy.deepcopy(p)
+            p2 = copy.deepcopy(p)
+            p1[i] = g[i]
+            p2[i] = n[i]
+            fitness_value = []
+            fitness_value.append(best_fitness)
 
-        gbest = []
-        for i in left:
-            for j in right:
-                temp = []
-                temp.append(i)
-                temp.append(j)
-                gbest.append(temp)
-
-
-        fitness_value = []
-        ### 1.适应度函数为RBF_SVM的3_fold交叉校验平均值
-        for i in range(9):
-            rbf_svm = svm.SVC(kernel='rbf', C=gbest[i][0], gamma=gbest[i][1])
+            rbf_svm = svm.SVC(kernel='rbf', C=p1[0], gamma=p1[1])
             cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
             fitness_value.append(cv_scores.mean())
-        ### 2. 当前粒子群最优适应度函数值和对应的参数
+
+            rbf_svm = svm.SVC(kernel='rbf', C=p2[0], gamma=p2[1])
+            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
+            fitness_value.append(cv_scores.mean())
+
+            if fitness_value[1] > fitness_value[0]:
+                if fitness_value[1] > fitness_value[2]:
+                    p = p1
+                    best_fitness = fitness_value[1]
+                else:
+                    p = p2
+                    best_fitness = fitness_value[2]
+            else:
+                if fitness_value[2] > fitness_value[0]:
+                    p = p2
+                    best_fitness = fitness_value[2]
+
         current_fitness = best_fitness
         current_parameter = p
-        for i in range(9):
-            if current_fitness < fitness_value[i]:
-                current_fitness = fitness_value[i]
-                current_parameter = gbest[i]
+
+
+        # left.append(g[0])
+        # left.append(n[0])
+        # left.append(p[0])
+        # right.append(g[1])
+        # right.append(n[1])
+        # right.append(p[1])
+        #
+        # gbest = []
+        # for i in left:
+        #     for j in right:
+        #         temp = []
+        #         temp.append(i)
+        #         temp.append(j)
+        #         gbest.append(temp)
+        #
+        #
+        # fitness_value = []
+        # ### 1.适应度函数为RBF_SVM的3_fold交叉校验平均值
+        # for i in range(9):
+        #     rbf_svm = svm.SVC(kernel='rbf', C=gbest[i][0], gamma=gbest[i][1])
+        #     cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
+        #     fitness_value.append(cv_scores.mean())
+        # ### 2. 当前粒子群最优适应度函数值和对应的参数
+        # current_fitness = best_fitness
+        # current_parameter = p
+        # for i in range(9):
+        #     if current_fitness < fitness_value[i]:
+        #         current_fitness = fitness_value[i]
+        #         current_parameter = gbest[i]
 
         return particle_loc, current_fitness, current_parameter
 
