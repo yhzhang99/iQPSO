@@ -4,6 +4,7 @@ from sklearn import svm
 from sklearn import model_selection
 from sklearn import metrics
 import random
+import math
 import matplotlib.pyplot as plt
 from data import load_data
 import time
@@ -13,51 +14,42 @@ sum = 0
 
 ## 1.加载数据
 
-## 2. PSO优化算法
-class PSO(object):
-    def __init__(self, particle_num, particle_dim, iter_num, c1, c2, w, max_value, min_value):
-        '''参数初始化
-        particle_num(int):粒子群的粒子数量
+
+## 2. QPSO算法
+class QPSO(object):
+    def __init__(self, particle_num, particle_dim, alpha, iter_num, max_value, min_value):
+        '''定义类参数
+        particle_num(int):粒子群大小
         particle_dim(int):粒子维度，对应待寻优参数的个数
+        alpha(float):控制系数
         iter_num(int):最大迭代次数
-        c1(float):局部学习因子，表示粒子移动到该粒子历史最优位置(pbest)的加速项的权重
-        c2(float):全局学习因子，表示粒子移动到所有粒子最优位置(gbest)的加速项的权重
-        w(float):惯性因子，表示粒子之前运动方向在本次方向上的惯性
         max_value(float):参数的最大值
         min_value(float):参数的最小值
         '''
         self.particle_num = particle_num
         self.particle_dim = particle_dim
         self.iter_num = iter_num
-        self.c1 = c1  ##通常设为2.0
-        self.c2 = c2  ##通常设为2.0
-        self.w = w
+        self.alpha = alpha
         self.max_value = max_value
         self.min_value = min_value
 
     ### 2.1 粒子群初始化
     def swarm_origin(self):
-        '''粒子群初始化
-        input:self(object):PSO类
+        '''初始化粒子群中的粒子位置
+        input:self(object):QPSO类
         output:particle_loc(list):粒子群位置列表
-               particle_dir(list):粒子群方向列表
         '''
         particle_loc = []
-        particle_dir = []
         for i in range(self.particle_num):
             tmp1 = []
-            tmp2 = []
             for j in range(self.particle_dim):
                 a = random.random()
-                b = random.random()
                 tmp1.append(a * (self.max_value - self.min_value) + self.min_value)
-                tmp2.append(b)
             particle_loc.append(tmp1)
-            particle_dir.append(tmp2)
 
-        return particle_loc, particle_dir
+        return particle_loc
 
-    ## 2.2 计算适应度函数数值列表;初始化pbest_parameters和gbest_parameter
+    ### 2.2 计算适应度函数数值列表
     def fitness(self, particle_loc):
         '''计算适应度函数值
         input:self(object):PSO类
@@ -80,36 +72,56 @@ class PSO(object):
 
         return fitness_value, current_fitness, current_parameter
 
-    ## 2.3  粒子位置更新
-    def updata(self, particle_loc, particle_dir, gbest_parameter, pbest_parameters):
-        '''粒子群位置更新
-        input:self(object):PSO类
+    ### 2.3 粒子位置更新
+    def updata(self, particle_loc, gbest_parameter, pbest_parameters):
+        '''粒子位置更新
+        input:self(object):QPSO类
               particle_loc(list):粒子群位置列表
-              particle_dir(list):粒子群方向列表
               gbest_parameter(list):全局最优参数
               pbest_parameters(list):每个粒子的历史最优值
         output:particle_loc(list):新的粒子群位置列表
-               particle_dir(list):新的粒子群方向列表
         '''
-        ## 1.计算新的量子群方向和粒子群位置
-        for i in range(self.particle_num):
-            a1 = [x * self.w for x in particle_dir[i]]
-            a2 = [y * self.c1 * random.random() for y in
-                  list(np.array(pbest_parameters[i]) - np.array(particle_loc[i]))]
-            a3 = [z * self.c2 * random.random() for z in list(np.array(gbest_parameter) - np.array(particle_dir[i]))]
-            particle_dir[i] = list(np.array(a1) + np.array(a2) + np.array(a3))
-            #            particle_dir[i] = self.w * particle_dir[i] + self.c1 * random.random() * (pbest_parameters[i] - particle_loc[i]) + self.c2 * random.random() * (gbest_parameter - particle_dir[i])
-            particle_loc[i] = list(np.array(particle_loc[i]) + np.array(particle_dir[i]))
+        Pbest_list = pbest_parameters
+        #### 2.3.1 计算mbest
+        mbest = []
+        total = []
+        for l in range(self.particle_dim):
+            total.append(0.0)
+        total = np.array(total)
 
-        ## 2.将更新后的量子位置参数固定在[min_value,max_value]内
-        ### 2.1 每个参数的取值列表
+        for i in range(self.particle_num):
+            total += np.array(Pbest_list[i])
+        for j in range(self.particle_dim):
+            mbest.append(list(total)[j] / self.particle_num)
+
+        #### 2.3.2 位置更新
+        ##### Pbest_list更新
+        for i in range(self.particle_num):
+            a = random.uniform(0, 1)
+            Pbest_list[i] = list(
+                np.array([x * a for x in Pbest_list[i]]) + np.array([y * (1 - a) for y in gbest_parameter]))
+        ##### particle_loc更新
+        for j in range(self.particle_num):
+            mbest_x = []  ## 存储mbest与粒子位置差的绝对值
+            for m in range(self.particle_dim):
+                mbest_x.append(abs(mbest[m] - particle_loc[j][m]))
+            u = random.uniform(0, 1)
+            if random.random() > 0.5:
+                particle_loc[j] = list(
+                    np.array(Pbest_list[j]) + np.array([self.alpha * math.log(1 / u) * x for x in mbest_x]))
+            else:
+                particle_loc[j] = list(
+                    np.array(Pbest_list[j]) - np.array([self.alpha * math.log(1 / u) * x for x in mbest_x]))
+
+        #### 2.3.3 将更新后的量子位置参数固定在[min_value,max_value]内
+        ### 每个参数的取值列表
         parameter_list = []
         for i in range(self.particle_dim):
             tmp1 = []
             for j in range(self.particle_num):
                 tmp1.append(particle_loc[j][i])
             parameter_list.append(tmp1)
-        ### 2.2 每个参数取值的最大值、最小值、平均值
+        ### 每个参数取值的最大值、最小值、平均值
         value = []
         for i in range(self.particle_dim):
             tmp2 = []
@@ -120,9 +132,9 @@ class PSO(object):
         for i in range(self.particle_num):
             for j in range(self.particle_dim):
                 particle_loc[i][j] = (particle_loc[i][j] - value[j][1]) / (value[j][0] - value[j][1]) * (
-                            self.max_value - self.min_value) + self.min_value
+                        self.max_value - self.min_value) + self.min_value
 
-        return particle_loc, particle_dir
+        return particle_loc
 
     ## 2.4 画出适应度函数值变化图
     def plot(self, average_results, best_results):
@@ -138,19 +150,17 @@ class PSO(object):
         plt.legend()
         plt.xlabel('迭代次数', size=15)
         plt.ylabel('适应度', size=15)
-        # plt.title('PSO_RBF_SVM parameter optimization')
+        # plt.title('QPSO_RBF_SVM parameter optimization')
         plt.show()
 
     ## 2.5 主函数
     def main(self):
-        '''主函数
-        '''
         # 最佳适应度和平均适应度
         best_results = []
         average_results = []
         best_fitness = 0.0
         ## 1、粒子群初始化
-        particle_loc, particle_dir = self.swarm_origin()
+        particle_loc = self.swarm_origin()
         ## 2、初始化gbest_parameter、pbest_parameters、fitness_value列表
         ### 2.1 gbest_parameter
         gbest_parameter = []
@@ -168,7 +178,7 @@ class PSO(object):
         for i in range(self.particle_num):
             fitness_value.append(0.0)
 
-        ## 3.迭代
+        ## 3、迭代
         for i in range(self.iter_num):
             ### 3.1 计算当前适应度函数值列表
             current_fitness_value, current_best_fitness, current_best_parameter = self.fitness(particle_loc)
@@ -186,7 +196,7 @@ class PSO(object):
             ### 3.3 更新fitness_value
             fitness_value = current_fitness_value
             ### 3.4 更新粒子群
-            particle_loc, particle_dir = self.updata(particle_loc, particle_dir, gbest_parameter, pbest_parameters)
+            particle_loc = self.updata(particle_loc, gbest_parameter, pbest_parameters)
         ## 4.结果展示
         # results.sort()
         end_time = time.time()
@@ -195,19 +205,16 @@ class PSO(object):
         print('Final parameters are :', gbest_parameter)
 
 
-
 if __name__ == '__main__':
     print('----------------1.Load Data-------------------')
-    trainX, trainY = load_data('data/xss.txt', 'data/normal.txt')
+    trainX, trainY = load_data('../data/xss.txt', '../data/normal.txt')
     print('----------------2.Parameter Seting------------')
     particle_num = 20
     particle_dim = 2
     iter_num = 200
-    c1 = 2
-    c2 = 2
-    w = 0.2
+    alpha = 0.1
     max_value = 100
     min_value = 0.001
     print('----------------3.PSO_RBF_SVM-----------------')
-    pso = PSO(particle_num, particle_dim, iter_num, c1, c2, w, max_value, min_value)
-    pso.main()
+    qpso = QPSO(particle_num, particle_dim, alpha, iter_num, max_value, min_value)
+    qpso.main()

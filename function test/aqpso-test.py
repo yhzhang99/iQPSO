@@ -1,4 +1,11 @@
 import copy
+
+import numpy as np
+from cec2017.functions import f5
+# x = np.random.uniform(-100, 100, size=50)
+# val = f5(x)
+# print('f5(x) = %.6f' %val)
+
 import re
 import numpy as np
 from sklearn import svm
@@ -63,14 +70,16 @@ class QPSO(object):
         fitness_value = []
         ### 1.适应度函数为RBF_SVM的3_fold交叉校验平均值
         for i in range(self.particle_num):
-            rbf_svm = svm.SVC(kernel='rbf', C=particle_loc[i][0], gamma=particle_loc[i][1])
-            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
-            fitness_value.append(cv_scores.mean())
+            # rbf_svm = svm.SVC(kernel='rbf', C=particle_loc[i][0], gamma=particle_loc[i][1])
+            # cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=7, scoring='accuracy')
+            val = f5(particle_loc[i])
+            fitness_value.append(val)
         ### 2. 当前粒子群最优适应度函数值和对应的参数
-        current_fitness = 0.0
+        # current_fitness = float("inf")
+        current_fitness = 99999
         current_parameter = []
         for i in range(self.particle_num):
-            if current_fitness < fitness_value[i]:
+            if current_fitness > fitness_value[i]:
                 current_fitness = fitness_value[i]
                 current_parameter = particle_loc[i]
 
@@ -166,31 +175,26 @@ class QPSO(object):
             p1[i] = g[i]
             p2[i] = n[i]
             fitness_value = []
+
             fitness_value.append(best_fitness)
+            fitness_value.append(f5(p1))
+            fitness_value.append(f5(p2))
 
-            rbf_svm = svm.SVC(kernel='rbf', C=p1[0], gamma=p1[1])
-            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
-            fitness_value.append(cv_scores.mean())
 
-            rbf_svm = svm.SVC(kernel='rbf', C=p2[0], gamma=p2[1])
-            cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
-            fitness_value.append(cv_scores.mean())
-
-            if fitness_value[1] > fitness_value[0]:
-                if fitness_value[1] > fitness_value[2]:
+            if fitness_value[1] < fitness_value[0]:
+                if fitness_value[1] < fitness_value[2]:
                     p = p1
                     best_fitness = fitness_value[1]
                 else:
                     p = p2
                     best_fitness = fitness_value[2]
             else:
-                if fitness_value[2] > fitness_value[0]:
+                if fitness_value[2] < fitness_value[0]:
                     p = p2
                     best_fitness = fitness_value[2]
 
         current_fitness = best_fitness
         current_parameter = p
-
 
         # left.append(g[0])
         # left.append(n[0])
@@ -211,14 +215,16 @@ class QPSO(object):
         # fitness_value = []
         # ### 1.适应度函数为RBF_SVM的3_fold交叉校验平均值
         # for i in range(9):
-        #     rbf_svm = svm.SVC(kernel='rbf', C=gbest[i][0], gamma=gbest[i][1])
-        #     cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
-        #     fitness_value.append(cv_scores.mean())
+        #     # rbf_svm = svm.SVC(kernel='rbf', C=gbest[i][0], gamma=gbest[i][1])
+        #     # cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
+        #     # fitness_value.append(cv_scores.mean())
+        #     val = f5(gbest[i])
+        #     fitness_value.append(val)
         # ### 2. 当前粒子群最优适应度函数值和对应的参数
         # current_fitness = best_fitness
         # current_parameter = p
         # for i in range(9):
-        #     if current_fitness < fitness_value[i]:
+        #     if current_fitness > fitness_value[i]:
         #         current_fitness = fitness_value[i]
         #         current_parameter = gbest[i]
 
@@ -246,7 +252,7 @@ class QPSO(object):
         # 最佳适应度和平均适应度
         best_results = []
         average_results = []
-        best_fitness = 0.0
+        best_fitness = 99999
         ## 1、粒子群初始化
         particle_loc = self.swarm_origin()
         ## 2、初始化gbest_parameter、pbest_parameters、fitness_value列表
@@ -264,7 +270,7 @@ class QPSO(object):
         ### 2.3 fitness_value
         fitness_value = []
         for i in range(self.particle_num):
-            fitness_value.append(0.0)
+            fitness_value.append(99999)
 
         ## 3、迭代
         for i in range(self.iter_num):
@@ -272,9 +278,9 @@ class QPSO(object):
             current_fitness_value, current_best_fitness, current_best_parameter = self.fitness(particle_loc)
             ### 3.2 求当前的gbest_parameter、pbest_parameters和best_fitness
             for j in range(self.particle_num):
-                if current_fitness_value[j] > fitness_value[j]:
+                if current_fitness_value[j] < fitness_value[j]:
                     pbest_parameters[j] = particle_loc[j]
-            if current_best_fitness > best_fitness:
+            if current_best_fitness < best_fitness:
                 best_fitness = current_best_fitness
                 gbest_parameter = current_best_parameter
 
@@ -295,15 +301,15 @@ class QPSO(object):
 
 if __name__ == '__main__':
     print('----------------1.Load Data-------------------')
-    trainX, trainY = load_data('data/xss.txt', 'data/normal.txt')
+    trainX, trainY = load_data('../data/xss.txt', '../data/normal.txt')
     print('----------------2.Parameter Seting------------')
-    particle_num = 20
-    particle_dim = 2
-    iter_num = 200
-    alpha_min = 0.001
-    alpha_max = 0.005
+    particle_num = 30
+    particle_dim = 30
+    iter_num = 1000
+    alpha_min = 0.1
+    alpha_max = 0.6
     max_value = 100
-    min_value = 0.001
+    min_value = -100
     print('----------------3.PSO_RBF_SVM-----------------')
     qpso = QPSO(particle_num, particle_dim, alpha_max,  alpha_min, iter_num, max_value, min_value)
     qpso.main()
