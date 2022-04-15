@@ -203,6 +203,7 @@ class QPSO(object):
         end_time = time.time()
         print("耗时: {:.2f}秒".format(end_time - start_time))
         self.plot(average_results, best_results)
+        np.savetxt('qpso-result.txt', best_results, fmt="%.18f")
         print('Final parameters are :', gbest_parameter)
 
 

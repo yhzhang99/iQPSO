@@ -191,6 +191,7 @@ class PSO(object):
         end_time = time.time()
         print("耗时: {:.2f}秒".format(end_time - start_time))
         self.plot(average_results, best_results)
+        np.savetxt('pso-result.txt', best_results, fmt="%.18f")
         print('Final parameters are :', gbest_parameter)
 
 
@@ -204,7 +205,7 @@ if __name__ == '__main__':
     iter_num = 1000
     c1 = 2
     c2 = 2
-    w = 0.2
+    w = 0.6
     max_value = 100
     min_value = -100
     print('----------------3.PSO_RBF_SVM-----------------')
