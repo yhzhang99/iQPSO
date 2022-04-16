@@ -1,10 +1,10 @@
 import copy
 
 import numpy as np
-from cec2017.functions import f5
+from cec2017.functions import f25
 # x = np.random.uniform(-100, 100, size=50)
-# val = f5(x)
-# print('f5(x) = %.6f' %val)
+# val = f25(x)
+# print('f25(x) = %.6f' %val)
 
 import re
 import numpy as np
@@ -72,11 +72,11 @@ class QPSO(object):
         for i in range(self.particle_num):
             # rbf_svm = svm.SVC(kernel='rbf', C=particle_loc[i][0], gamma=particle_loc[i][1])
             # cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=7, scoring='accuracy')
-            val = f5(particle_loc[i])
+            val = f25(particle_loc[i])
             fitness_value.append(val)
         ### 2. 当前粒子群最优适应度函数值和对应的参数
         # current_fitness = float("inf")
-        current_fitness = 99999
+        current_fitness = float("inf")
         current_parameter = []
         for i in range(self.particle_num):
             if current_fitness > fitness_value[i]:
@@ -177,8 +177,8 @@ class QPSO(object):
             fitness_value = []
 
             fitness_value.append(best_fitness)
-            fitness_value.append(f5(p1))
-            fitness_value.append(f5(p2))
+            fitness_value.append(f25(p1))
+            fitness_value.append(f25(p2))
 
 
             if fitness_value[1] < fitness_value[0]:
@@ -218,7 +218,7 @@ class QPSO(object):
         #     # rbf_svm = svm.SVC(kernel='rbf', C=gbest[i][0], gamma=gbest[i][1])
         #     # cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=3, scoring='accuracy')
         #     # fitness_value.append(cv_scores.mean())
-        #     val = f5(gbest[i])
+        #     val = f25(gbest[i])
         #     fitness_value.append(val)
         # ### 2. 当前粒子群最优适应度函数值和对应的参数
         # current_fitness = best_fitness
@@ -252,7 +252,7 @@ class QPSO(object):
         # 最佳适应度和平均适应度
         best_results = []
         average_results = []
-        best_fitness = 99999
+        best_fitness = float("inf")
         ## 1、粒子群初始化
         particle_loc = self.swarm_origin()
         ## 2、初始化gbest_parameter、pbest_parameters、fitness_value列表
@@ -270,7 +270,7 @@ class QPSO(object):
         ### 2.3 fitness_value
         fitness_value = []
         for i in range(self.particle_num):
-            fitness_value.append(99999)
+            fitness_value.append(float("inf"))
 
         ## 3、迭代
         for i in range(self.iter_num):
