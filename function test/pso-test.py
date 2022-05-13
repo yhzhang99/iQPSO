@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from data import load_data
 import time
 import numpy as np
-from cec2017.functions import f25
+from cec2017.functions import f2
 
 start_time = time.time()
 sum = 0
@@ -67,7 +67,7 @@ class PSO(object):
             # rbf_svm = svm.SVC(kernel='rbf', C=particle_loc[i][0], gamma=particle_loc[i][1])
             # cv_scores = model_selection.cross_val_score(rbf_svm, trainX, trainY, cv=7, scoring='accuracy')
             # fitness_value.append(cv_scores.mean())
-            val = f25(particle_loc[i])
+            val = f2(particle_loc[i])
             fitness_value.append(val)
         ### 2. 当前粒子群最优适应度函数值和对应的参数
         current_fitness = float("inf")
@@ -190,8 +190,9 @@ class PSO(object):
         # results.sort()
         end_time = time.time()
         print("耗时: {:.2f}秒".format(end_time - start_time))
-        self.plot(average_results, best_results)
+        # self.plot(average_results, best_results)
         np.savetxt('pso-result.txt', best_results, fmt="%.18f")
+        print('Best fitness:', best_fitness)
         print('Final parameters are :', gbest_parameter)
 
 
